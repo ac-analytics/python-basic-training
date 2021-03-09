@@ -12,4 +12,14 @@ $ conda create --prefix ./.conda_env
 $ conda activate ./.conda_env
 ```
 
-3. Run your Jupyter notebook.
+3. Run your Jupyter notebook
+
+```
+$ jupyter-notebook
+```
+
+or 
+
+```
+$ jupyter-lab
+```
